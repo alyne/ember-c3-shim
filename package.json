@@ -1,6 +1,6 @@
 {
-  "name": "ember-c3-shim",
-  "version": "0.0.7",
+  "name": "alyne-ember-c3-shim",
+  "version": "0.1.0",
   "description": "ember-cli shim for c3.js",
   "directories": {
     "doc": "doc",
