@@ -43,7 +43,7 @@
   },
   "keywords": ["ember-addon", "d3", "c3"],
   "dependencies": {
-    "ember-cli-babel": "^6.1.0"
+    "ember-cli-babel": "^6.18.0"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
